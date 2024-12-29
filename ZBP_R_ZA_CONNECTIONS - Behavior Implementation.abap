@@ -1,0 +1,15 @@
+CLASS zbp_r_za_connections DEFINITION
+  PUBLIC
+  ABSTRACT
+  FINAL
+  FOR BEHAVIOR OF zr_za_connections .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zbp_r_za_connections IMPLEMENTATION.
+ENDCLASS.
